@@ -25,7 +25,7 @@ Schouwstra, M. (2012). Semantic structures, communicative strategies and the eme
 
 ## Upcoming
 
-Motamedi, Y., Schouwstra, M., & Kirby, S. An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences (in press).
+Motamedi, Y., Schouwstra, M., & Kirby, S. An evolutionary approach to sign language emergence: from state to process. (Peer commentary on “Gesture, sign and language: the coming of age of sign language and gesture studies”.) Behavioral and Brain Sciences (in press).
 
 Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. Cognitive Science (under revision)
 
