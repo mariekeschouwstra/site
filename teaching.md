@@ -5,7 +5,9 @@ permalink: /teaching/
 order: 3
 ---
 
-## PhD supervision, currently
+
+
+### PhD supervision, currently
 
 Fausto Carcassi (co-supervisor, University of Edinburgh) 
 
@@ -13,11 +15,11 @@ Asha Stewart (co-supervisor, University of Edinburgh)
 
 Fiona Kirton (co-supervisor, University of Edinburgh)
 
-## PhD supervision, completed
+### PhD supervision, completed
 
 2013–2017 Yasamin Motamedi (co-supervisor, University of Edinburgh)
 
-## Teaching and dissertation supervision
+### Teaching and dissertation supervision
 
 2014--2017 Dissertation supervisor. 7 MSc Evolution of Language and Cognition, University of Edinburgh; 1 MSc Cognitive Science, University of Amsterdam; 1 MA Linguistics, Utrecht University.
 
