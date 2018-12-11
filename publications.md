@@ -6,9 +6,9 @@ order: 2
 ---
 ## Journal articles
 
-Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36.
+Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. 
 
-Schouwstra, M. (2016). Temporal structure in emerging language: From natural data to silent gesture. *Cognitive Science*. DOI: 10.1111/cogs.12441
+Schouwstra, M. (2017). Temporal structure in emerging language: From natural data to silent gesture. *Cognitive Science*. DOI: 10.1111/cogs.12441
 
 Schouwstra, M., & de Swart, H. (2014). The semantic origins of word order. *Cognition*, 131(3), 431-6. DOI: 10.1016/j.cognition.2014.03.004
 
