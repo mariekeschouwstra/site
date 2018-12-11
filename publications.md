@@ -22,15 +22,19 @@ A.D.M. Smith, M. Schouwstra, B. de Boer, K. Smith (Eds.) (2010).  *The Evolution
 
 ## Upcoming
 
-Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* (under revision)
+Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* (under review)
 
 Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (under revision)
 
+Jennifer Culbertson, Simon Kirby, Marieke Schouwstra. From the world to word order: the link between conceptual structure and language (submitted).
+
 Marieke Schouwstra, Kenny Smith, Simon Kirby. The emergence of word order conventions: improvisation, interaction and transmission (in preparation).
 
-Jennifer Culbertson, Simon Kirby, Marieke Schouwstra. Word order universals reflect cognitive biases: Evidence from silent gesture (in preparation).
-
 Molly Flaherty, Marieke Schouwstra, Susan Goldin-Meadow. Traces of Natural Word Order in Nicaraguan Sign Language (in preparation).
+
+Marieke Schouwstra, Katie Mudd, Marcus Perlman, Simon Kirby. Word order biases are not modality specific: evidence from improvised vocalisation (in preparation).
+
+Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., Kirby, S. The emergence of spatial modulation in artificial sign languages. PsyArXiv, 17. DOI: 10.31234/osf.io/p6zy4 (in preparation)
 
 ## Articles in collections, reviews, proceedings papers
 
