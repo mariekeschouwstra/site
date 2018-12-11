@@ -26,17 +26,31 @@ Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gestu
 
 Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (under revision)
 
-Jennifer Culbertson, Simon Kirby, Marieke Schouwstra. From the world to word order: the link between conceptual structure and language (submitted).
+Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language (submitted).
 
 Marieke Schouwstra, Kenny Smith, Simon Kirby. The emergence of word order conventions: improvisation, interaction and transmission (in preparation).
 
-Molly Flaherty, Marieke Schouwstra, Susan Goldin-Meadow. Traces of Natural Word Order in Nicaraguan Sign Language (in preparation).
+Molly Flaherty, Marieke Schouwstra, Susan Goldin-Meadow. Word order: naturalness and conventionalization in Nicaraguan Sign Language (in preparation).
 
 Marieke Schouwstra, Katie Mudd, Marcus Perlman, Simon Kirby. Word order biases are not modality specific: evidence from improvised vocalisation (in preparation).
 
 Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., Kirby, S. The emergence of spatial modulation in artificial sign languages. PsyArXiv, 17. DOI: 10.31234/osf.io/p6zy4 (in preparation)
 
 ## Articles in collections, reviews, proceedings papers
+
+Carcassi, F., Kirby, S., Schouwstra, M. (2018)  The evolution of adjectival monotonicity. *Sinn und Bedeutung*.
+
+Flaherty, M., Schouwstra, M. & Goldin-Meadow, S. (2018). Do we see word order patterns from silent gesture studies in a new natural language? In Cuskley, C., Flaherty, M., Little, H., McCrohon, L., Ravignani, A. & Verhoef, T. (Eds.):  *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)*. doi:10.12775/3991-1.030
+
+Kirby, S., Culbertson, J. & Schouwstra, M. (2018). The origins of word order universals: evidence from corpus statistics and silent gesture. In: *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)*. doi:10.12775/3991-1.051
+
+Kirton, F., Schouwstra, M., Culbertson, J., Smith, K. & Kirby, S. (2018). Constituent order in improvised gesture reflects speaker perspective. In: *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII).* doi:10.12775/3991-1.052
+
+Sato, A., Ramsammy, M., Schouwstra, M. & Kirby, S. (2018). I see what you did there: the role of iconicity in the acquisition of signs. In: *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)*. doi:10.12775/3991-1.120
+
+Shurley, J., Schouwstra, M. & Pickering, M. (2018). Structural alignment in cross-modal priming: linguistic representation is shared between gesture and speech. In: *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII).* doi:10.12775/ 3991-1.111
+
+Motamedi, Y., Schouwstra, M., Smith, K., Culbertson, J. & Kirby, S. (2018). The cultural evolution of spatial modulations in artificial sign languages. In: *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII).* doi:10.12775/3991-1.078
 
 Schouwstra, M., Kirby, S., & Culbertson, J. (2017). Word order universals reflect cognitive biases: Evidence from silent gesture. *Proceedings of the 39th Annual Conference of the Cognitive Science Society.*
 
