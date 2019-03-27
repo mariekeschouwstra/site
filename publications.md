@@ -6,6 +6,8 @@ order: 2
 ---
 ## Journal articles
 
+Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* (accepted)
+
 Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. 
 
 Schouwstra, M. (2017). Temporal structure in emerging language: From natural data to silent gesture. *Cognitive Science*. DOI: 10.1111/cogs.12441
@@ -22,11 +24,11 @@ A.D.M. Smith, M. Schouwstra, B. de Boer, K. Smith (Eds.) (2010).  *The Evolution
 
 ## Upcoming
 
-Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* (under review)
+Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (under review)
 
-Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (under revision)
+Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language. *PNAS* (under revision)
 
-Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language (submitted).
+Sato, A., Schouwstra, M. Flaherty, M., Kirby, S. Iconicity in artificial sign language learning. *Language and Cognition* (under review).
 
 Marieke Schouwstra, Kenny Smith, Simon Kirby. The emergence of word order conventions: improvisation, interaction and transmission (in preparation).
 
@@ -38,7 +40,7 @@ Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., Kirby, S. The emergence
 
 ## Articles in collections, reviews, proceedings papers
 
-Carcassi, F., Kirby, S., Schouwstra, M. (2018)  The evolution of adjectival monotonicity. *Sinn und Bedeutung*.
+Carcassi, F., Kirby, S., Schouwstra, M. (2018)  The evolution of adjectival monotonicity. *Proceedings of Sinn und Bedeutung*.
 
 Flaherty, M., Schouwstra, M. & Goldin-Meadow, S. (2018). Do we see word order patterns from silent gesture studies in a new natural language? In Cuskley, C., Flaherty, M., Little, H., McCrohon, L., Ravignani, A. & Verhoef, T. (Eds.):  *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)*. doi:10.12775/3991-1.030
 
