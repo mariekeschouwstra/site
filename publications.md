@@ -8,9 +8,11 @@ order: 2
 
 Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* 43(7). DOI: 10.1111/cogs.12732
 
-Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. 
+Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (forthcoming)
 
 Schouwstra, M. (2017). Temporal structure in emerging language: From natural data to silent gesture. *Cognitive Science*. DOI: 10.1111/cogs.12441
+
+Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. 
 
 Schouwstra, M., & de Swart, H. (2014). The semantic origins of word order. *Cognition*, 131(3), 431-6. DOI: 10.1016/j.cognition.2014.03.004
 
@@ -24,7 +26,6 @@ A.D.M. Smith, M. Schouwstra, B. de Boer, K. Smith (Eds.) (2010).  *The Evolution
 
 ## Upcoming
 
-Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (under review)
 
 Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language. *PNAS* (under revision)
 
