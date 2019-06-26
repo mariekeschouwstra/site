@@ -6,7 +6,7 @@ order: 2
 ---
 ## Journal articles
 
-Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* (accepted)
+Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* 43(7). DOI: 10.1111/cogs.12732
 
 Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. 
 
