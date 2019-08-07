@@ -6,9 +6,9 @@ order: 2
 ---
 ## Journal articles
 
-Marieke Schouwstra, Henriette de Swart, Bill Thompson. Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* 43(7). DOI: 10.1111/cogs.12732
+Schouwstra, M., de Swart, H., and Thompson, B. (2019). Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* 43(7). DOI: 10.1111/cogs.12732
 
-Yasamin Motamedi, Marieke Schouwstra, Kenny Smith, Jennifer Culbertson, Simon Kirby. Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition* (forthcoming)
+Motamedi, Y., Schouwstra, M., Culbertson, J., Smith, K., and Kirby, S. (2019). Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition (192)*. 
 
 Schouwstra, M. (2017). Temporal structure in emerging language: From natural data to silent gesture. *Cognitive Science*. DOI: 10.1111/cogs.12441
 
@@ -27,7 +27,7 @@ A.D.M. Smith, M. Schouwstra, B. de Boer, K. Smith (Eds.) (2010).  *The Evolution
 ## Upcoming
 
 
-Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language. *PNAS* (under revision)
+Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language. https://psyarxiv.com/v7be4/ 
 
 Sato, A., Schouwstra, M. Flaherty, M., Kirby, S. Iconicity in artificial sign language learning. *Language and Cognition* (under review).
 
