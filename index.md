@@ -7,10 +7,19 @@ permalink: /
 title: Home
 order: 1
 ---
+# Origins of complex meaning
 
-Humans use complex expressions to convey complex meanings, a trait that is unique to our species. Having a background in formal semantics (Montague grammar and dynamic semantics) and philosophy of language, I am interested in how (complex) meaning is best characterised. My current research focuses on language evolution, and shows that concepts from semantic theory and philosophy of language can be successfully applied to gain insight in the evolutionary origins of complex language.
+Humans use complex expressions to convey complex meanings, a trait that is unique to our species. I am interested in how complex meaning is best characterised, and how it came about. 
 
-One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech (see my papers in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full)), and [this paper](https://psyarxiv.com/4akvd/) that combines silent gesture and computational modeling (Cognitive Science, 2019). 
+# Starting froms scratch: improvisation 
 
-I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning* (see this [Evolang paper](http://www.research.ed.ac.uk/portal/files/24545060/SCHOUWSTRA_etal_2016_ELPIC_FROM_NATURAL_ORDER_TO_CONVENTION.pdf), [this article](http://tinyurl.com/h8l2roq) in Science magazine of the work with my phd student [Yasamin Motamedi](https://ymotamedi.github.io/)), and [this blog post](https://www.ayearofconversation.com/blog/conversation-without-words) about my experiences in the lab. 
+One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech (see my papers in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full)), and [another paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA). 
+
+# Evolving a communication system in the lab
+
+I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning* (see this [Evolang paper](http://www.research.ed.ac.uk/portal/files/24545060/SCHOUWSTRA_etal_2016_ELPIC_FROM_NATURAL_ORDER_TO_CONVENTION.pdf) and [this paper in Cognition](https://www.sciencedirect.com/science/article/pii/S0010027719301234) by my phd student [Yasamin Motamedi](https://ymotamedi.github.io/).
+
+# Watching a language emerge
+
+Being able to watch two individuals create a new language from scratch has changed my thinking in important ways. See [this blog post](https://www.ayearofconversation.com/blog/conversation-without-words) on my experiences in the lab. 
 
