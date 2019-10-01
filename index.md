@@ -13,7 +13,7 @@ Humans use complex expressions to convey complex meanings, a trait that is uniqu
 
 ## Starting froms scratch: improvisation 
 
-One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech (see my papers in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full)), and [another paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA). 
+One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech. See my papers in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full), and [another paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA). 
 
 ## Evolving a communication system in the lab
 
