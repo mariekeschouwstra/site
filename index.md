@@ -8,9 +8,7 @@ title: Home
 order: 1
 ---
 
-## We grow languages 
-
-See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our current [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
+<img src="marieke.jpg" alt="marieke" height="235" width="290">
 
 ## Origins of complex meaning
 
@@ -24,7 +22,7 @@ One of the methodologies I use are laboratory experiments in which adult partici
 
 I am interested in how the preferences that surface in *improvisation* change under the influence of cultural evolutionary mechanisms, like *communicative interaction* and *iterated learning*. See this [Evolang paper](http://www.research.ed.ac.uk/portal/files/24545060/SCHOUWSTRA_etal_2016_ELPIC_FROM_NATURAL_ORDER_TO_CONVENTION.pdf) and [this paper in Cognition](https://www.sciencedirect.com/science/article/pii/S0010027719301234) by my phd student [Yasamin Motamedi](https://ymotamedi.github.io/).
 
-## Watching a language emerge
+## We grow languages 
 
-Being able to watch two individuals create a new language from scratch has changed my thinking in important ways. See [this blog post](https://www.ayearofconversation.com/blog/conversation-without-words) on my experiences in the lab. 
+See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our current [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
 
