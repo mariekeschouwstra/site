@@ -10,7 +10,7 @@ order: 1
 
 ## We grow languages 
 
-See [www.wegrowlanguages.com](http://www.wegrowlanguages.com) for news and background on our current [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
+See [www.wegrowlanguages.com](http://wegrowlanguages.com) for news and background on our current [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
 
 ## Origins of complex meaning
 
