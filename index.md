@@ -8,7 +8,8 @@ title: Home
 order: 1
 ---
 
-<img src="marieke.jpg" alt="marieke" height="235" width="290">
+<img src="images/marieke.jpg" alt="marieke" height="176" width="217" />
+
 
 ## Origins of complex meaning
 
