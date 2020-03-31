@@ -8,6 +8,10 @@ title: Home
 order: 1
 ---
 
+## Welcome!
+
+My name is Marieke Schouwstra. I am an evolutionary linguist, living and [working](http://www.lel.ed.ac.uk/cle/) in Edinburgh. 
+
 <img src="images/marieke.jpg" alt="marieke" height="176" width="217" />
 
 
