@@ -6,17 +6,20 @@ order: 2
 ---
 ## Journal articles
 
-Sato, A., Schouwstra, M. Flaherty, M., Kirby, S. Iconicity in artificial sign language learning. *Language and Cognition*. DOI: 10.1017/langcog.2019.37
+Culbertson, J., Schouwstra, M., Kirby, S. (in press). From the world to word order: deriving biases in noun phrase order from statistical properties of the world. *Language.* Preprint available [here](https://psyarxiv.com/v7be4/). 
+
+Sato, A., Schouwstra, M. Flaherty, M., Kirby, S. (2020). Iconicity in artificial sign language learning. *Language and Cognition*. DOI: 10.1017/langcog.2019.37
 
 Schouwstra, M., de Swart, H., and Thompson, B. (2019). Interpreting Silent Gesture: cognitive biases and rational inference in emerging language systems. *Cognitive Science* 43(7). DOI: 10.1111/cogs.12732
 
-Motamedi, Y., Schouwstra, M., Culbertson, J., Smith, K., and Kirby, S. (2019). Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition (192)*. 
+Motamedi, Y., Schouwstra, M., Culbertson, J., Smith, K., and Kirby, S. (2019). Evolving artificial sign languages in the lab: from improvised gesture to systematic sign. *Cognition (192)*. DOI: 10.1016/j.cognition.2019.05.001
 
 Schouwstra, M. (2017). Temporal structure in emerging language: From natural data to silent gesture. *Cognitive Science*. DOI: 10.1111/cogs.12441
 
-Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. 
+Motamedi, Y., Schouwstra, M., & Kirby, S. (2017). An evolutionary approach to sign language emergence: from state to process. Behavioral and Brain Sciences, 40, 35–36. DOI: 10.1017/S0140525X15003003
 
 Schouwstra, M., & de Swart, H. (2014). The semantic origins of word order. *Cognition*, 131(3), 431-6. DOI: 10.1016/j.cognition.2014.03.004
+
 
 
 ## Books
@@ -29,7 +32,7 @@ A.D.M. Smith, M. Schouwstra, B. de Boer, K. Smith (Eds.) (2010).  *The Evolution
 ## Upcoming
 
 
-Jennifer Culbertson, Marieke Schouwstra, Simon Kirby. From the world to word order: the link between conceptual structure and language. https://psyarxiv.com/v7be4/ 
+Kirton, F., Schouwstra, M., Culbertson, J., Smith, K., & Kirby, S. Animacy and Word Order in Artificial Language Learning. *Cognitive Science*.
 
 Marieke Schouwstra, Kenny Smith, Simon Kirby. The emergence of word order conventions: improvisation, interaction and transmission (in preparation).
 
@@ -41,7 +44,9 @@ Motamedi, Y., Smith, K., Schouwstra, M., Culbertson, J., Kirby, S. The emergence
 
 ## Articles in collections, reviews, proceedings papers
 
-Carcassi, F., Kirby, S., Schouwstra, M. (2018)  The evolution of adjectival monotonicity. *Proceedings of Sinn und Bedeutung*.
+Carcassi, F., Schouwstra, M. & Kirby, S. (2020). The Advantage of Extreme Meanings in Cultural Evolution. In Ravignani, A., Barbieri, C., Martins, M., Flaherty, M., Jadoul, Y., Lattenkamp, E., Little, H., Mudd, K. & Verhoef, T. (Eds.): The Evolution of Language: Proceedings of the 13th International Conference (EvoLang13). doi:10.17617/2.3190925.
+
+Carcassi, F., Kirby, S., Schouwstra, M. (2019)  The evolution of adjectival monotonicity. *Proceedings of Sinn und Bedeutung*.
 
 Flaherty, M., Schouwstra, M. & Goldin-Meadow, S. (2018). Do we see word order patterns from silent gesture studies in a new natural language? In Cuskley, C., Flaherty, M., Little, H., McCrohon, L., Ravignani, A. & Verhoef, T. (Eds.):  *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)*. doi:10.12775/3991-1.030
 
