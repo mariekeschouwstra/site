@@ -9,15 +9,15 @@ order: 3
 
 ### PhD supervision, currently
 
-Fausto Carcassi (co-supervisor, University of Edinburgh) 
+[Fausto Carcassi](https://thelogicalgrammar.github.io) (co-supervisor, University of Edinburgh) 
 
-Asha Stewart (co-supervisor, University of Edinburgh)
+[Asha Stewart](https://www.researchgate.net/profile/Asha_Sato) (co-supervisor, University of Edinburgh)
 
-Fiona Kirton (co-supervisor, University of Edinburgh)
+[Fiona Kirton](https://fkirton.github.io) (co-supervisor, University of Edinburgh)
 
 ### PhD supervision, completed
 
-2013–2017 Yasamin Motamedi (co-supervisor, University of Edinburgh)
+2013–2017 [Yasamin Motamedi](https://ymotamedi.github.io) (co-supervisor, University of Edinburgh)
 
 ### Teaching and dissertation supervision
 
