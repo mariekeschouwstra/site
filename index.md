@@ -7,13 +7,17 @@ permalink: /
 title: Home
 order: 1
 ---
+## We grow languages 
+
+See [www.wegrowlanguages.com](www.wegrowlanguages.com) for news and background on our [ESRC grant](https://gtr.ukri.org/person/644282F1-3016-4A1F-A191-2EDB3870C391).
+
 ## Origins of complex meaning
 
 Humans use complex expressions to convey complex meanings, a trait that is unique to our species. I am interested in how complex meaning is best characterised, and how it came about. 
 
 ## Starting froms scratch: improvisation 
 
-One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech. See my papers in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full), and [another paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA). 
+One of the methodologies I use are laboratory experiments in which adult participants improvise to convey information. For example, in **silent gesture** experiments, participants describe events using only their hands and no speech. See this paper in [Cognition](http://www.sciencedirect.com/science/article/pii/S0010027714000432), and this one in [Cognitive Science](http://onlinelibrary.wiley.com/doi/10.1111/cogs.12441/full). [Another paper in Cognitive Science](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12732?casa_token=vD9l93ny4d0AAAAA%3A_Pi5_tQ1ZWxppY2eBsZGUt3-Q4Am9XQrDPgYmO-RIOGxiIqXBYLeQT7CnMKA3N3mka83ZWulGDrTIA) combines silent gesture with a computational model, focusing on fundamental differences between interpretation and production in emerging language systems.  
 
 ## Evolving a communication system in the lab
 
