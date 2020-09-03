@@ -8,9 +8,17 @@ title: Home
 order: 1
 ---
 
-## Welcome!
 
-My name is Marieke Schouwstra. I am an evolutionary linguist, living and [working](http://www.lel.ed.ac.uk/cle/) in Edinburgh. 
+Marieke Schouwstra
+ILLC
+University of Amsterdam
+
+I am Assistant Professor in cognitive science and artificial intelligence at the Institute for Logic, Language and Computation. 
+
+My research focuses on how individual and cultural processes interact to give us structured languages that allow us to share our thoughts. I study this by observing what happens when languages are created anew, in laboratory experiments in which participants communicate in novel ways, and I combine this experimental approach with computational models and data from existing languages. 
+I teach in the interdisciplinary program Cognition, Language and Communication, as well as in Linguistics and Logic. 
+
+
 
 <img src="images/marieke.jpg" alt="marieke" height="176" width="217" />
 
