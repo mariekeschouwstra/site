@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marieke Schouwstra
-email: marieke.schouwstra@ed.ac.uk
+email: M.Schouwstra@uva.nl
 description: > # this means to ignore newlines until "baseurl:"
-  Marieke Schouwstra, Evolutionary Linguist at the Centre for Language Evolution, 
-  University of Edinburgh
+  Marieke Schouwstra, University of Amsterdam
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: notnotalinguist
+twitter_username: NotNotALinguist
 github_username:  mariekeschouwstra
 
 # Build settings
