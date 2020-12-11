@@ -6,8 +6,6 @@ order: 4
 ---
 
 Marieke Schouwstra \\
-Room 1.16 \\
-Dugald Stewart Building \\
-3 Charles Street \\
-Edinburgh \\
-EH8 9AD
+University of Amsterdam \\
+Spuistraat 134 \\
+Amsterdam \\
